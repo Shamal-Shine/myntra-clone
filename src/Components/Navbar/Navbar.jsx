@@ -129,7 +129,7 @@ export const Navbar = () => {
                   }}
                   to="/home&living"
                >
-                  HOME & LIVING
+                  HOME
                </Link>
                <HomeLivingNav></HomeLivingNav>
             </div>
